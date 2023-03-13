@@ -69,8 +69,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### React pages/tabs
-    - Services(wifi/phone), 
-    - Transportation, 
-    - Events, 
-    - Testimony
+### React Tabs/Pages
+    - About Me:
+        [
+            Server 1,200 clients
+            Provide free electricity for senior
+            Provides food boxes
+            Belize is the bridges between Latin America and teh Caribbean
+            60% poverty rate in Belize
+            Promote awareness of wellness
+            Home visits and care packages 
+            Partnered with ministry of health to bring information and supplies. 
+            Used WhatApp to check on sick patients for doctored work. 
+        ]
+        Partners
+    - Services: [60+]
+        Meals on Wheels, 
+        Care package Don. (Deliver)
+        Health Statistic Awareness (Medical Resources (Medicare, caregivers, physical theory ))
+        Social Events (Shuttle schedule. to events)
+        Histing Medical Resources
+        Free legal council
+        Transportation
+    - Transportation :
+    - Events :
+        Calendar of events (Religion & Cultural Drugs) 
+    - Testimony 
+        Recognition
+    - Donation : 
+        Go FundMe
+    - Mission Statement
+  - 
