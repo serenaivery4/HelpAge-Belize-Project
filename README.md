@@ -73,9 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - About Me:
         [
             Server 1,200 clients
-            Provide free electricity for senior
+            Provide free electricity for seniors
             Provides food boxes
-            Belize is the bridges between Latin America and teh Caribbean
+            Belize is the bridges between Latin America and the Caribbean
             60% poverty rate in Belize
             Promote awareness of wellness
             Home visits and care packages 
