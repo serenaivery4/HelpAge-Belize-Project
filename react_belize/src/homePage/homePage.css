@@ -1,0 +1,50 @@
+.tab{ 
+    background-color: #ece0d1;
+    height: 92vh; 
+    width: 100%; 
+    display: flex; 
+    flex-direction: column;
+    overflow: hidden; 
+
+}
+
+.header{
+    display: flex; 
+    justify-content: left;
+    height: 15%; 
+    align-items: center;
+    font-size: xx-large;
+    border-bottom: 3px solid black; 
+    font-weight: bolder; 
+}
+
+.banner{
+    display: flex; 
+    max-height: 100%; 
+    width: 100%; 
+}
+
+.title{
+    position:absolute; 
+    left: 5%; 
+    padding-top: 2%; 
+}
+
+.tropicalBanner{
+  opacity: .5; 
+}
+
+.homeContentWrapper{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 85%; 
+    justify-content: space-evenly;
+}
+
+.homeContent1, .homeContent2, .homeContent3{
+    border: 3px solid black; 
+    height: 95%; 
+    width: 30%; 
+}
