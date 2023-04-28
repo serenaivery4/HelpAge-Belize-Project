@@ -1,4 +1,3 @@
-/* eslint-disable no-const-assign */
 import React, { useState, useEffect } from 'react';
 import HelpageLogo from './patientSources/images/HelpageLogo.png';
 import PatientSources from './patientSources/PatientSources';
