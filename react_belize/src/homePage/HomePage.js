@@ -1,4 +1,4 @@
-import tropicalBanner from '../patientSources/images/tropicalBanner.jpeg';
+import tropicalBanner from '../patientSources/images/tropicalBanner2.png';
 
 import './homePage.css';
 
