@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400&family=Kanit:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+.mainDiv {
+    position:relative;
+    top:110px;
+    width:100%;
+    height:650px;
+}
+.belizeCity {
+    height:100%;
+    width:100%;
+}
+
+.testTab {
+    position: absolute;
+    cursor: pointer;
+}
+
+/* donation message styles*/
+
+.donateDiv {
+    position:relative;
+    width:100%;
+    height: 410px;
+    background-color: rgb(255, 255, 255);
+}
+
+.donateMessage {
+    position:relative;
+    top:9%;
+    vertical-align:center;
+    padding-left:15%;
+    padding-right:15%;
+    text-align: center;
+    color:#E05C13;
+    font-size:1.6em;
+
+    line-height:140%;
+
+    font-family: 'Arimo', sans-serif;
+}
+
+.donateButton {
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    font-size:1.4em;
+    height: 22%;
+    width: 17%;
+    font-weight: bold;
+
+    cursor: pointer;
+    border:none;
+    border-radius:8px;
+    /*padding: 10%;*/
+    min-width: 64px;
+  
+    background-color: #F2F2F2;
+    color: #E05C13;
+  
+    transition: all 0.1s ease-in;
+  }
+  
+.donateButton:hover {
+    background-color: #e5e5e5;
+    
+  }
+
+.gridDiv {
+    position:relative;
+    width:100%;
+    height: 650px;
+    background-color: #ffffff;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template: 550px / auto auto auto;
+    /*grid-template: "a b c" 50px            
+                   "a b c" 50px            
+                   "a b c" 50px;*/
+    background-color: #5d4545;
+    padding: 0px;
+
+    margin: 0 auto;
+    width:85%;
+}
+
+.gridItem {
+    background-color: #F2F2F2;
+    border: 15px solid rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+
+    /*grid-auto-columns: 100%;*/
+
+
+}
+
+.grid {
+    background-color: #F2F2F2;
+}
+
+
+
+
+
+.footerDiv {
+    position:relative;
+    width:100%;
+    height: 30px;
+    background-color: rgb(183, 182, 182);
+}
+
+
